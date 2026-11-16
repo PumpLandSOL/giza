@@ -58,7 +58,7 @@ $GIZA`],
 GIZA checks every bond against Robinhood Chain before crediting it and shows its treasury straight from the chain. Built to be inspected, like anything meant to last.
 
 $GIZA`],
-['(3,3) (video)', 'giza-33-12s.mp4', `(3,3) took Wonderland's TIME to $10,063 and Snowbank to $8,356.
+['(3,3) (video)', 'giza-33-12s.mp4', `(3,3) took Olympus to a $4.35B market cap and Wonderland to $2.08B.
 
 The rule never changed: when holders stake instead of sell, everyone compounds. GIZA runs that rule on Robinhood Chain.
 
@@ -78,9 +78,9 @@ $GIZA`],
 That's staked GIZA at the current rate, 288 rebases a day. The stakers who are in for the first courses end up holding the most stone.
 
 $GIZA`],
-['Getting started (video)', 'giza-start-15s.mp4', `KlimaDAO hit $3,777. Rome hit $1,679. Jade hit $656.
+['Getting started (video)', 'giza-start-15s.mp4', `In November 2021 the (3,3) sector was worth $8.03B.
 
-Each of them started exactly where GIZA is now: day one. Connect a wallet, bond ETH, claim and stake.
+Every protocol in it started exactly where GIZA is now: day one. Connect a wallet, bond ETH, claim and stake.
 
 $GIZA`],
 ['Getting started', 'giza-g08-start.png', `Early on a new chain is the only kind of early that counts.

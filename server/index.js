@@ -11,7 +11,7 @@ const path = require('path');
 const { recoverPersonal } = require('./evmsig');
 
 // ---------- PLACEHOLDERS: the only place the domain and the X handle are set (or use the env vars) ----------
-const SITE_URL = (process.env.SITE_URL || 'https://gizaorh.xyz').replace(/\/$/, '');
+const SITE_URL = (process.env.SITE_URL || 'https://gizarh.xyz').replace(/\/$/, '');
 const X_URL = process.env.X_URL || 'https://x.com';
 
 // private settings (TREASURY_WALLET, ADMIN_KEY…) can live in a git-ignored .env next to package.json; real env vars win

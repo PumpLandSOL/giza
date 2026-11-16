@@ -22,7 +22,7 @@ GIZA is an OHM-style (3,3) reserve currency on Robinhood Chain. Stake GIZA to re
 
 ## Website
 ```
-https://gizaorh.xyz
+https://gizarh.xyz
 ```
 
 ## Profile images
@@ -43,13 +43,13 @@ GIZA brings that idea to Robinhood Chain, and the first stones are going in now.
 $GIZA
 ```
 
-### 2. Key art · 224 chars · media: `giza-g01-keyart.png`
+### 2. Key art · 223 chars · media: `giza-g01-keyart.png`
 ```
 OHM did $4.35B on Ethereum. TIME did $2.08B on Avalanche.
 
 Robinhood Chain is brand new and its (3,3) reserve is already built: stake GIZA to compound every five minutes, bond ETH 7% under market.
 
-https://gizaorh.xyz
+https://gizarh.xyz
 
 $GIZA
 ```
@@ -63,13 +63,13 @@ Now there's one on Robinhood Chain: one billion GIZA, fixed supply, backed by a 
 $GIZA
 ```
 
-### 4. Rebase (video) · 211 chars · media: `giza-rebase-12s.mp4`
+### 4. Rebase (video) · 210 chars · media: `giza-rebase-12s.mp4`
 ```
 In 2021 an OHM staker waited eight hours for each rebase and still watched the protocol reach $4.35B.
 
 A GIZA staker waits five minutes. That's 96 rebases in the time Olympus did one.
 
-https://gizaorh.xyz
+https://gizarh.xyz
 
 $GIZA
 ```
@@ -112,9 +112,9 @@ GIZA checks every bond against Robinhood Chain before crediting it and shows its
 $GIZA
 ```
 
-### 9. (3,3) (video) · 191 chars · media: `giza-33-12s.mp4`
+### 9. (3,3) (video) · 195 chars · media: `giza-33-12s.mp4`
 ```
-(3,3) took Wonderland's TIME to $10,063 and Snowbank to $8,356.
+(3,3) took Olympus to a $4.35B market cap and Wonderland to $2.08B.
 
 The rule never changed: when holders stake instead of sell, everyone compounds. GIZA runs that rule on Robinhood Chain.
 
@@ -148,35 +148,35 @@ That's staked GIZA at the current rate, 288 rebases a day. The stakers who are i
 $GIZA
 ```
 
-### 13. Getting started (video) · 183 chars · media: `giza-start-15s.mp4`
+### 13. Getting started (video) · 189 chars · media: `giza-start-15s.mp4`
 ```
-KlimaDAO hit $3,777. Rome hit $1,679. Jade hit $656.
+In November 2021 the (3,3) sector was worth $8.03B.
 
-Each of them started exactly where GIZA is now: day one. Connect a wallet, bond ETH, claim and stake.
+Every protocol in it started exactly where GIZA is now: day one. Connect a wallet, bond ETH, claim and stake.
 
-https://gizaorh.xyz
+https://gizarh.xyz
 
 $GIZA
 ```
 
-### 14. Getting started · 194 chars · media: `giza-g08-start.png`
+### 14. Getting started · 193 chars · media: `giza-g08-start.png`
 ```
 Early on a new chain is the only kind of early that counts.
 
 GIZA is on Robinhood Chain from the start. Open Rabby, bond ETH at 7% under market, and stake what vests.
 
-https://gizaorh.xyz
+https://gizarh.xyz
 
 $GIZA
 ```
 
-### 15. Treasury · 233 chars · media: `giza-g09-treasury.png`
+### 15. Treasury · 232 chars · media: `giza-g09-treasury.png`
 ```
 A pyramid is only as good as its base.
 
 GIZA's base is a treasury on Robinhood Chain that holds every bond and is read from the chain every 20 seconds. Each ETH that goes in raises what stands behind GIZA.
 
-https://gizaorh.xyz
+https://gizarh.xyz
 
 $GIZA
 ```
@@ -190,7 +190,7 @@ We drew both as pyramids, to scale. GIZA is the smallest one on the page today, 
 $GIZA
 ```
 
-### 17. Launch (fill CA) · 205 chars · media: `giza-g10-live.png`
+### 17. Launch (fill CA) · 204 chars · media: `giza-g10-live.png`
 ```
 $GIZA is live on Robinhood Chain.
 
@@ -200,7 +200,7 @@ Stake for 288 rebases a day, or bond ETH or USDG under market.
 
 CA:
 
-https://gizaorh.xyz
+https://gizarh.xyz
 
 $GIZA
 ```

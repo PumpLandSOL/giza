@@ -2,7 +2,7 @@
 'use strict';
 const fs = require('fs'), path = require('path');
 // set these two when the handle and the domain exist; every graphic footer, video end card and the X kit pick them up
-const X = '', SITE = 'gizaorh.xyz', TICK = '$GIZA';
+const X = '', SITE = 'gizarh.xyz', TICK = '$GIZA';
 const LINE = [SITE, X].filter(Boolean).join(' · ') || 'Robinhood Chain';
 const FONTS = `<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..600;1,9..144,300..600&family=Instrument+Sans:wght@400;500;600&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">`;
 const MARK = (s = 40) => `<svg width="${s}" height="${s}" viewBox="0 0 64 64"><circle cx="32" cy="32" r="31" fill="#030604"/><circle cx="32" cy="32" r="29.5" fill="none" stroke="#00c805" stroke-width="1"/><path d="M32 12 33.3 23.5H25.6Z" fill="#eaffec"/><path d="M32 12 38.4 23.5H33.3Z" fill="#9dffa8"/><path d="M24.1 26.2H33.6L36 48H11.5Z" fill="#00c805"/><path d="M33.6 26.2H39.9L52.5 48H36Z" fill="#067a1e"/><path d="M19.9 33.5H34.4M15.7 40.8H35.2" stroke="#030604" stroke-width="1.3"/><path d="M34.4 33.5H44.1M35.2 40.8H48.3" stroke="#030604" stroke-width="1.3" opacity=".7"/></svg>`;
